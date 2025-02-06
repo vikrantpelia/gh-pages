@@ -45,14 +45,14 @@
             "title": "Fly UX",
             "summary": "The Fly UX mobile app was designed as a project during my ‘Professional Diploma in UX Design’ course with the&hellip;",
             "content_html": "\n  <p>\n    The Fly UX mobile app was designed as a project during my ‘Professional Diploma in UX Design’ course with the UX Design Institute.\n  </p>\n\n  <p>\n    The project (my first in UX design) was tailored to guide me through the process of researching, designing, and prototyping a mobile app for a fictional start-up airline.\n  </p>\n\n    <h2 id=\"step-1-research\">\n      Step 1: Research\n    </h2>\n\n  <p>\n    I had two key research goals: 1) learn from competitors’ booking experiences (competitive benchmarking) and 2) understand users’ perspectives (user research).\n  </p>\n\n    <h3 id=\"competitive-benchmarking\">\n      Competitive Benchmarking\n    </h3>\n\n  <p>\n    I chose to study the easyJet, British Airways, Qatar Airways, and Skyscanner apps for a variety of references. I did that by putting myself in the shoes of a user and flowing through their booking experiences. That allowed me to identify the positive and negative elements of their experiences, which I could use as inspiration when it came to designing the Fly UX app.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://vikrantpelia.github.io/gh-pages/media/posts/1/placeholder-45.png\" height=\"800\" width=\"1200\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://vikrantpelia.github.io/gh-pages/media/posts/1/responsive/placeholder-45-xs.png 384w ,https://vikrantpelia.github.io/gh-pages/media/posts/1/responsive/placeholder-45-sm.png 600w ,https://vikrantpelia.github.io/gh-pages/media/posts/1/responsive/placeholder-45-md.png 768w ,https://vikrantpelia.github.io/gh-pages/media/posts/1/responsive/placeholder-45-lg.png 1200w ,https://vikrantpelia.github.io/gh-pages/media/posts/1/responsive/placeholder-45-xl.png 1600w\">\n      \n    </figure>\n\n    <h3 id=\"user-research\">\n      User Research\n    </h3>\n\n  <p>\n    The UX Design Institute provided two usability test examples within the course material. I watched through those and made note of the comments the users made while flowing through the Aer Lingus and Eurowings booking experiences. In addition, I conducted an online survey and usability test of my own for further insights. The combined insights gave me an understanding of users’ goals, behaviours, and pain points – which was invaluable information that would guide my design decisions later on.\n  </p>\n\n  <p>\n    \n  </p>",
-            "image": "https://vikrantpelia.github.io/gh-pages/media/posts/1/Fly-UX-Featured-Image-2.png",
+            "image": "https://vikrantpelia.github.io/gh-pages/media/posts/1/Frame-1.png",
             "author": {
                 "name": "Vikrant Pelia"
             },
             "tags": [
             ],
             "date_published": "2025-01-31T17:51:45+00:00",
-            "date_modified": "2025-02-05T12:41:35+00:00"
+            "date_modified": "2025-02-05T15:34:22+00:00"
         }
     ]
 }
