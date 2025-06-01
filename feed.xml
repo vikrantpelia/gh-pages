@@ -3,7 +3,7 @@
     <title>Vikrant Pelia</title>
     <link href="https://www.vikrantpelia.com/feed.xml" rel="self" />
     <link href="https://www.vikrantpelia.com" />
-    <updated>2025-05-29T17:12:39+01:00</updated>
+    <updated>2025-05-30T09:43:09+01:00</updated>
     <author>
         <name>Vikrant Pelia</name>
     </author>
@@ -17,7 +17,6 @@
         <link href="https://www.vikrantpelia.com/fly-ux-6/"/>
         <id>https://www.vikrantpelia.com/fly-ux-6/</id>
         <media:content url="https://www.vikrantpelia.com/media/posts/7/GWR-Feature-SQ.png" medium="image" />
-            <category term="Case Study"/>
 
         <updated>2025-04-23T16:29:43+01:00</updated>
             <summary>
@@ -183,7 +182,6 @@
         <link href="https://www.vikrantpelia.com/bank-ui/"/>
         <id>https://www.vikrantpelia.com/bank-ui/</id>
         <media:content url="https://www.vikrantpelia.com/media/posts/2/Bank-UI-Featured-Image.png" medium="image" />
-            <category term="Case Study"/>
 
         <updated>2025-01-31T17:52:24+00:00</updated>
             <summary>
@@ -354,7 +352,6 @@
         <link href="https://www.vikrantpelia.com/fly-ux/"/>
         <id>https://www.vikrantpelia.com/fly-ux/</id>
         <media:content url="https://www.vikrantpelia.com/media/posts/1/Fly-UX-Featured-Image.png" medium="image" />
-            <category term="Case Study"/>
 
         <updated>2025-01-31T17:51:45+00:00</updated>
             <summary>
@@ -508,9 +505,9 @@
       
     </figure>
 
-    <h3 id="result-and-reflection">
+    <h2 id="result-and-reflection">
       Result and Reflection
-    </h3>
+    </h2>
 
   <p>
     You can view my clickable medium-fidelity prototype <a href="https://www.figma.com/proto/QwOmrIEfBHcSihDWjY9sid/UXDI-Project-12%3A-Prototype-for-mobile?node-id=539-1546&amp;scaling=scale-down&amp;page-id=441%3A2&amp;starting-point-node-id=539%3A1546" target="_blank">here</a>.
