@@ -3,7 +3,7 @@
     <title>Vikrant Pelia</title>
     <link href="https://www.vikrantpelia.com/feed.xml" rel="self" />
     <link href="https://www.vikrantpelia.com" />
-    <updated>2025-06-05T01:32:22+01:00</updated>
+    <updated>2025-06-05T15:32:52+01:00</updated>
     <author>
         <name>Vikrant Pelia</name>
     </author>
@@ -68,7 +68,7 @@
 
     <figure class="post__image post__image--center">
       <img decoding="async" loading="lazy" src="https://www.vikrantpelia.com/media/posts/7/GWR-Ticket-Delivery.png" height="1080" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Delivery-xs.png 384w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Delivery-sm.png 600w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Delivery-md.png 768w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Delivery-lg.png 1200w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Delivery-xl.png 1600w">
-      
+      <figcaption>Ticket Delivery Options</figcaption>
     </figure>
 
   <p>
@@ -89,7 +89,7 @@
 
     <figure class="post__image post__image--center">
       <img decoding="async" loading="lazy" src="https://www.vikrantpelia.com/media/posts/7/GWR-Ticket-Delivery-All.png" height="1080" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Delivery-All-xs.png 384w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Delivery-All-sm.png 600w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Delivery-All-md.png 768w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Delivery-All-lg.png 1200w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Delivery-All-xl.png 1600w">
-      
+      <figcaption>All Ticket Delivery Options</figcaption>
     </figure>
 
     <h4 id="1-download-a-mobile-ticket">
@@ -102,7 +102,7 @@
 
     <figure class="post__image post__image--center">
       <img decoding="async" loading="lazy" src="https://www.vikrantpelia.com/media/posts/7/GWR-Mobile-Ticket.png" height="1080" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Mobile-Ticket-xs.png 384w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Mobile-Ticket-sm.png 600w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Mobile-Ticket-md.png 768w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Mobile-Ticket-lg.png 1200w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Mobile-Ticket-xl.png 1600w">
-      
+      <figcaption>Mobile Ticket</figcaption>
     </figure>
 
     <h4 id="2-load-to-smartcard-now">
@@ -115,7 +115,7 @@
 
     <figure class="post__image post__image--center">
       <img decoding="async" loading="lazy" src="https://www.vikrantpelia.com/media/posts/7/GWR-Load-Smartcard.png" height="1080" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Load-Smartcard-xs.png 384w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Load-Smartcard-sm.png 600w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Load-Smartcard-md.png 768w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Load-Smartcard-lg.png 1200w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Load-Smartcard-xl.png 1600w">
-      
+      <figcaption>Load to Smartcard</figcaption>
     </figure>
 
     <h4 id="3-load-to-smartcard-at-station">
@@ -128,7 +128,7 @@
 
     <figure class="post__image post__image--center">
       <img decoding="async" loading="lazy" src="https://www.vikrantpelia.com/media/posts/7/GWR-Load-Ticket-at-Station.png" height="1080" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Load-Ticket-at-Station-xs.png 384w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Load-Ticket-at-Station-sm.png 600w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Load-Ticket-at-Station-md.png 768w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Load-Ticket-at-Station-lg.png 1200w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Load-Ticket-at-Station-xl.png 1600w">
-      
+      <figcaption>Load at Station</figcaption>
     </figure>
 
     <h4 id="4-collect-ticket-at-station">
@@ -141,7 +141,7 @@
 
     <figure class="post__image post__image--center">
       <img decoding="async" loading="lazy" src="https://www.vikrantpelia.com/media/posts/7/GWR-Collect-Ticket-at-Station.png" height="1080" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Collect-Ticket-at-Station-xs.png 384w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Collect-Ticket-at-Station-sm.png 600w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Collect-Ticket-at-Station-md.png 768w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Collect-Ticket-at-Station-lg.png 1200w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Collect-Ticket-at-Station-xl.png 1600w">
-      
+      <figcaption>Collect at Station</figcaption>
     </figure>
 
   <p>
@@ -198,7 +198,7 @@
 
     <figure class="post__image post__image--center">
       <img decoding="async" loading="lazy" src="https://www.vikrantpelia.com/media/posts/7/GWR-Flow.png" height="1080" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Flow-xs.png 384w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Flow-sm.png 600w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Flow-md.png 768w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Flow-lg.png 1200w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Flow-xl.png 1600w">
-      
+      <figcaption>User Flow</figcaption>
     </figure>
 
     <h4 id="2-screen-sketches">
@@ -219,7 +219,7 @@
 
     <figure class="post__image post__image--center">
       <img decoding="async" loading="lazy" src="https://www.vikrantpelia.com/media/posts/7/GWR-User-Settings-Sketch.png" height="1080" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.vikrantpelia.com/media/posts/7/responsive/GWR-User-Settings-Sketch-xs.png 384w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-User-Settings-Sketch-sm.png 600w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-User-Settings-Sketch-md.png 768w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-User-Settings-Sketch-lg.png 1200w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-User-Settings-Sketch-xl.png 1600w">
-      
+      <figcaption>User Settings Sketch</figcaption>
     </figure>
 
     <h5 id="2-my-smartcard-screen">
@@ -232,7 +232,7 @@
 
     <figure class="post__image post__image--center">
       <img decoding="async" loading="lazy" src="https://www.vikrantpelia.com/media/posts/7/GWR-Apple-Wallet-Sketch.png" height="1080" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-xs.png 384w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-sm.png 600w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-md.png 768w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-lg.png 1200w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-xl.png 1600w">
-      
+      <figcaption>My Smartcard Sketches</figcaption>
     </figure>
 
     <h5 id="3-ticket-purchase-successful-screen">
@@ -245,7 +245,7 @@
 
     <figure class="post__image post__image--center">
       <img decoding="async" loading="lazy" src="https://www.vikrantpelia.com/media/posts/7/GWR-Ticket-Purchase-Successful-Sketch.png" height="1080" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Purchase-Successful-Sketch-xs.png 384w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Purchase-Successful-Sketch-sm.png 600w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Purchase-Successful-Sketch-md.png 768w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Purchase-Successful-Sketch-lg.png 1200w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Purchase-Successful-Sketch-xl.png 1600w">
-      
+      <figcaption>Ticket Purchase Successful Sketch</figcaption>
     </figure>
 
     <h4 id="3-prototype">
@@ -262,27 +262,27 @@
 
     <figure class="post__image post__image--center">
       <img decoding="async" loading="lazy" src="https://www.vikrantpelia.com/media/posts/7/GWR-User-Settings-Sketch-vs-Screen.png" height="1080" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.vikrantpelia.com/media/posts/7/responsive/GWR-User-Settings-Sketch-vs-Screen-xs.png 384w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-User-Settings-Sketch-vs-Screen-sm.png 600w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-User-Settings-Sketch-vs-Screen-md.png 768w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-User-Settings-Sketch-vs-Screen-lg.png 1200w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-User-Settings-Sketch-vs-Screen-xl.png 1600w">
-      
+      <figcaption>User Settings Sketch vs Screen</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
       <img decoding="async" loading="lazy" src="https://www.vikrantpelia.com/media/posts/7/GWR-Apple-Wallet-Sketch-vs-Screen-1.png" height="1080" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-vs-Screen-1-xs.png 384w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-vs-Screen-1-sm.png 600w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-vs-Screen-1-md.png 768w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-vs-Screen-1-lg.png 1200w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-vs-Screen-1-xl.png 1600w">
-      
+      <figcaption>My Smartcard Sketch vs Screen</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
       <img decoding="async" loading="lazy" src="https://www.vikrantpelia.com/media/posts/7/GWR-Apple-Wallet-Sketch-vs-Screen-2.png" height="1080" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-vs-Screen-2-xs.png 384w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-vs-Screen-2-sm.png 600w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-vs-Screen-2-md.png 768w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-vs-Screen-2-lg.png 1200w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-vs-Screen-2-xl.png 1600w">
-      
+      <figcaption>Add Smartcard Sketch vs Screen</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
       <img decoding="async" loading="lazy" src="https://www.vikrantpelia.com/media/posts/7/GWR-Apple-Wallet-Sketch-vs-Screen-3.png" height="1080" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-vs-Screen-3-xs.png 384w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-vs-Screen-3-sm.png 600w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-vs-Screen-3-md.png 768w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-vs-Screen-3-lg.png 1200w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Apple-Wallet-Sketch-vs-Screen-3-xl.png 1600w">
-      
+      <figcaption>Use Smartcard Sketch vs Screen</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
       <img decoding="async" loading="lazy" src="https://www.vikrantpelia.com/media/posts/7/GWR-Ticket-Purchase-Successful-Sketch-vs-Screen.png" height="1080" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Purchase-Successful-Sketch-vs-Screen-xs.png 384w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Purchase-Successful-Sketch-vs-Screen-sm.png 600w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Purchase-Successful-Sketch-vs-Screen-md.png 768w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Purchase-Successful-Sketch-vs-Screen-lg.png 1200w ,https://www.vikrantpelia.com/media/posts/7/responsive/GWR-Ticket-Purchase-Successful-Sketch-vs-Screen-xl.png 1600w">
-      
+      <figcaption>Ticket Purchase Successful Sketch vs Screen</figcaption>
     </figure>
 
     <h2 id="the-product">
@@ -430,7 +430,7 @@
     </h2>
 
   <p>
-    I went through a few iterations and played with the different colours and Lexend + Zilla Slab font combination. As mentioned above, I altered my colour choices and stuck with one font only for the final designs. True to <a href="https://www.vikrantpelia.com/bank-ui/" target="_blank">my UX learnings</a>, I also kept the experience at the forefront of my mind for each design iteration. I tried to balance the required aesthetic creativity with a sense of simplicity, and the result was a minimal and intuitive set of screens aligned with the Bank UI brand values.
+    I went through a few iterations and played with the different colours and Lexend + Zilla Slab font combination. As mentioned above, I altered my colour choices and stuck with one font only for the final designs. True to <a href="https://www.vikrantpelia.com/fly-ux/" target="_blank" class="">my UX learnings</a>, I also kept the experience at the forefront of my mind for each design iteration. I tried to balance the required aesthetic creativity with a sense of simplicity, and the result was a minimal and intuitive set of screens aligned with the Bank UI brand values.
   </p>
 
   <div  class="gallery-wrapper">
